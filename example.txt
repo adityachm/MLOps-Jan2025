@@ -1,1 +1,1 @@
-This is my first example file that needs to be pushed to the repo
+Changing the content entirely in the example.txt in branch G24AIT103
